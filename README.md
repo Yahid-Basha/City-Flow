@@ -12,3 +12,6 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+# output
+![iot-app](https://github.com/user-attachments/assets/9d2c3410-f508-43f2-99b0-8b5531ec64ca)
