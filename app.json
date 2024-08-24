@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "iot-public-transport",
-    "slug": "iot-public-transport"
+    "slug": "iot-public-transport",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "da934398-764a-4955-b559-7bda835b6619"
+      }
+    },
+    "android": {
+      "package": "com.yahid.iotpublictransport"
+    }
   }
 }
