@@ -9,7 +9,7 @@ import { useNavigation } from '@react-navigation/native';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyC57K4uo1O7s6CuXlYD3USxBz3-NuwoGsg",
+    apiKey: "firebase_google_api_key",
     authDomain: "iot-public-transport.firebaseapp.com",
     databaseURL: "https://iot-public-transport-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "iot-public-transport",
